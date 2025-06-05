@@ -5,7 +5,7 @@
 - **Database Configuration**: Update the `application.properties` example based on your database (e.g., H2, PostgreSQL, or MySQL).
 - **Features**: Customize the features section based on what your project includes (e.g., authentication, favorites list, or search).
 - **Version Numbers**: Update the version numbers (e.g., Java 17, Spring Boot 3.2.5, Thymeleaf 3.1.2) to match your project’s dependencies in `pom.xml`.
-- **Repository Link**: 
+- **Repository Link**: https://github.com/ProothV/Book-Management-System.git
 
 ---
 
